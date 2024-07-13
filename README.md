@@ -216,7 +216,7 @@ Program the robot to move forward until it detects an obstacle using distance se
 This module teaches students to program the robot to stop and go based on detecting black and white surfaces. They apply advanced line-following techniques using nested "wait until" blocks for adaptive navigation.
 
 ### ADV-04 - Red Green Blue (RGB) Speed Variation
-Students explore programming the robot to adjust its speed based on detecting colors using color sensors. They develop algorithms for dynamic speed control and apply variables for color recognition and speed adjustment.
+Students explore programming the robot to adjust its speed based on detecting colors using color sensors. They develop algorithms for dynamic speed control and apply variables for color recognition and speed adjustment. When detecting Red: 150 Degrees/Second, Green: 500 Degrees/Second, Blue: 300 Degrees/Second
 
 ### ADV-05 - Perimeter Force
 Program the robot to move until it encounters a force, simulating interactions with physical objects in its environment. Students apply advanced force sensor integration and develop algorithms for responsive robot behaviors.
@@ -261,4 +261,4 @@ The final installment of the robotics challenges series, providing students with
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their robotic projects. They develop data logging algorithms using loops, variables, and conditionals for data-driven insights.
 
 ### ADV-18 - Wireless Communication and Remote Control
-This module explores wireless communication protocols and methods for remote controlling SPIKE Prime robots. Students develop collaborative and interactive projects using advanced communication techniques and apply them in real-time robotic scenarios.
+This module explores wireless communication protocols and methods for remote controlling SPIKE Prime robots. Students develop collaborative and interactive projects using advanced communication techniques and apply them in real-time robotic scenarios. 
